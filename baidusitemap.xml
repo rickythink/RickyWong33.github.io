@@ -116,9 +116,9 @@
         <title>Windows Qt5.6.2与OpenCV3.2.0整合环境搭建与设置</title>
         <pubTime>2017-06-17T14:58:15.000Z</pubTime>
         
-        <tag>Qt</tag>
-         
         <tag>OpenCV</tag>
+         
+        <tag>Qt</tag>
          
          
            
@@ -194,9 +194,9 @@
         <title>Windows下编译OpenCV+OpenCV_Contrib的Android模块</title>
         <pubTime>2017-07-03T07:26:24.000Z</pubTime>
         
-        <tag>OpenCV</tag>
-         
         <tag>Android</tag>
+         
+        <tag>OpenCV</tag>
          
         <tag>OpenCV_Contrib</tag>
          
@@ -286,25 +286,6 @@
 
     
   <url>
-    <loc>https://ricky.moe/2016/07/22/Deep-learning-hardware/</loc>
-    <lastmod>2017-10-29T10:16:27.891Z</lastmod>
-    <data>
-        <display>
-        <title>深度学习硬件推荐</title>
-        <pubTime>2016-07-22T09:30:52.000Z</pubTime>
-        
-        <tag>Deep Learning</tag>
-         
-        <tag>Hardware</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>https://ricky.moe/2016/07/19/Keras-DQN-Flappybird/</loc>
     <lastmod>2017-10-29T10:16:27.891Z</lastmod>
     <data>
@@ -315,6 +296,25 @@
         <tag>Keras</tag>
          
         <tag>DQN</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://ricky.moe/2016/07/22/Deep-learning-hardware/</loc>
+    <lastmod>2017-10-29T10:16:27.891Z</lastmod>
+    <data>
+        <display>
+        <title>深度学习硬件推荐</title>
+        <pubTime>2016-07-22T09:30:52.000Z</pubTime>
+        
+        <tag>Deep Learning</tag>
+         
+        <tag>Hardware</tag>
          
          
            
