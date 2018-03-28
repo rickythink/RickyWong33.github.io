@@ -4,6 +4,23 @@
 
     
   <url>
+    <loc>https://ricky.moe/2018/03/28/port-check-and-close/</loc>
+    <lastmod>2018-03-28T02:51:00.000Z</lastmod>
+    <data>
+        <display>
+        <title>如何解除Linux端口占用？</title>
+        <pubTime>2018-03-28T02:46:05.000Z</pubTime>
+        
+        <tag>Linux</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://ricky.moe/2017/11/04/yolo-training-visualization/</loc>
     <lastmod>2018-02-23T10:17:08.618Z</lastmod>
     <data>
@@ -14,6 +31,25 @@
         <tag>Yolo</tag>
          
         <tag>可视化</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://ricky.moe/2017/12/11/keep-up-with-deep-learning/</loc>
+    <lastmod>2018-02-23T10:17:08.598Z</lastmod>
+    <data>
+        <display>
+        <title>follow一线人工智能/机器学习/深度学习/机器视觉最新动态的方法</title>
+        <pubTime>2017-12-11T07:25:25.000Z</pubTime>
+        
+        <tag>Deep Learning</tag>
+         
+        <tag>学习方法</tag>
          
          
            
@@ -35,25 +71,6 @@
         <tag>Deep learning</tag>
          
         <tag>AgeNet</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://ricky.moe/2017/12/11/keep-up-with-deep-learning/</loc>
-    <lastmod>2018-02-23T10:17:08.598Z</lastmod>
-    <data>
-        <display>
-        <title>follow一线人工智能/机器学习/深度学习/机器视觉最新动态的方法</title>
-        <pubTime>2017-12-11T07:25:25.000Z</pubTime>
-        
-        <tag>Deep Learning</tag>
-         
-        <tag>学习方法</tag>
          
          
            
@@ -86,7 +103,6 @@
 
     
     
-    
   <url>
     <loc>https://ricky.moe/2017/08/27/ubuntu-opencv-3-2-0-install/</loc>
     <lastmod>2017-10-29T10:16:27.991Z</lastmod>
@@ -108,6 +124,7 @@
     </url>
 
     
+    
   <url>
     <loc>https://ricky.moe/2017/06/17/qt5-6-2-opencv3-1-integration/</loc>
     <lastmod>2017-10-29T10:16:27.983Z</lastmod>
@@ -116,9 +133,51 @@
         <title>Windows Qt5.6.2与OpenCV3.2.0整合环境搭建与设置</title>
         <pubTime>2017-06-17T14:58:15.000Z</pubTime>
         
+        <tag>Qt</tag>
+         
         <tag>OpenCV</tag>
          
-        <tag>Qt</tag>
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://ricky.moe/2017/06/28/hexo-theme-update/</loc>
+    <lastmod>2017-10-29T10:16:27.979Z</lastmod>
+    <data>
+        <display>
+        <title>Hexo 主题快速升级办法</title>
+        <pubTime>2017-06-28T15:02:33.000Z</pubTime>
+        
+        <tag>Hexo</tag>
+         
+        <tag>备忘</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://ricky.moe/2017/07/03/opencv-contrib-for-android/</loc>
+    <lastmod>2017-10-29T10:16:27.979Z</lastmod>
+    <data>
+        <display>
+        <title>Windows下编译OpenCV+OpenCV_Contrib的Android模块</title>
+        <pubTime>2017-07-03T07:26:24.000Z</pubTime>
+        
+        <tag>OpenCV</tag>
+         
+        <tag>Android</tag>
+         
+        <tag>OpenCV_Contrib</tag>
+         
+        <tag>Android Studio</tag>
          
          
            
@@ -159,48 +218,6 @@
         <tag>同步</tag>
          
         <tag>git</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://ricky.moe/2017/06/28/hexo-theme-update/</loc>
-    <lastmod>2017-10-29T10:16:27.979Z</lastmod>
-    <data>
-        <display>
-        <title>Hexo 主题快速升级办法</title>
-        <pubTime>2017-06-28T15:02:33.000Z</pubTime>
-        
-        <tag>Hexo</tag>
-         
-        <tag>备忘</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://ricky.moe/2017/07/03/opencv-contrib-for-android/</loc>
-    <lastmod>2017-10-29T10:16:27.979Z</lastmod>
-    <data>
-        <display>
-        <title>Windows下编译OpenCV+OpenCV_Contrib的Android模块</title>
-        <pubTime>2017-07-03T07:26:24.000Z</pubTime>
-        
-        <tag>Android</tag>
-         
-        <tag>OpenCV</tag>
-         
-        <tag>OpenCV_Contrib</tag>
-         
-        <tag>Android Studio</tag>
          
          
            
@@ -286,25 +303,6 @@
 
     
   <url>
-    <loc>https://ricky.moe/2016/07/19/Keras-DQN-Flappybird/</loc>
-    <lastmod>2017-10-29T10:16:27.891Z</lastmod>
-    <data>
-        <display>
-        <title>200行Keras代码实现DQN玩转FlappyBird</title>
-        <pubTime>2016-07-19T01:53:15.000Z</pubTime>
-        
-        <tag>Keras</tag>
-         
-        <tag>DQN</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>https://ricky.moe/2016/07/22/Deep-learning-hardware/</loc>
     <lastmod>2017-10-29T10:16:27.891Z</lastmod>
     <data>
@@ -315,6 +313,25 @@
         <tag>Deep Learning</tag>
          
         <tag>Hardware</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://ricky.moe/2016/07/19/Keras-DQN-Flappybird/</loc>
+    <lastmod>2017-10-29T10:16:27.891Z</lastmod>
+    <data>
+        <display>
+        <title>200行Keras代码实现DQN玩转FlappyBird</title>
+        <pubTime>2016-07-19T01:53:15.000Z</pubTime>
+        
+        <tag>Keras</tag>
+         
+        <tag>DQN</tag>
          
          
            
